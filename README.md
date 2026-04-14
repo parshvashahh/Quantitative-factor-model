@@ -1,16 +1,12 @@
-# 📈 Portfolio Performance Analytics Dashboard
+# Portfolio Performance Analytics Dashboard
 
 A comprehensive **portfolio analytics engine** computing performance attribution, risk-adjusted metrics, drawdown analysis, and benchmark-relative statistics — used daily by portfolio analysts at AMCs and custodian banks.
 
-## 🎯 Target Roles
-Portfolio Analytics Analyst | Investment Analyst | Fund Performance Analyst
 
-## 🏦 Relevant For
-State Street Global Advisors | Kotak AMC | Mirae Asset | DSP Mutual Fund | Morningstar India
 
 ---
 
-## 📌 What This Project Does
+##  What This Project Does
 
 | Feature | Description |
 |---------|-------------|
@@ -34,17 +30,10 @@ project2_portfolio_analytics/
 └── README.md
 ```
 
----
-
-## 🚀 How To Run
-
-```bash
-python portfolio_analytics.py
-```
 
 ---
 
-## 📊 Key Metrics Explained
+##Key Metrics Explained
 
 **Sharpe Ratio** — Excess return per unit of total risk. >1 is good, >2 is excellent.
 
@@ -60,14 +49,6 @@ python portfolio_analytics.py
 
 ---
 
-## 🧠 Interview Talking Points
 
-1. **Why Sortino over Sharpe?** Investors care more about downside risk than upside volatility. Sortino captures this asymmetry.
-2. **What is tracking error?** Annualised standard deviation of daily active returns. Low TE = index-hugging. High TE = active bets.
-3. **Explain Brinson attribution.** Alpha comes from two sources: sector allocation decisions and stock selection within sectors.
-4. **Why monthly heatmap?** Identifies seasonality patterns and consistency of returns across market cycles.
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 `Python` `Pandas` `NumPy` `SciPy` `Matplotlib`
