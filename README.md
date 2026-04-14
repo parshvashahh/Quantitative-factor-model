@@ -6,7 +6,7 @@ A comprehensive **portfolio analytics engine** computing performance attribution
 
 ---
 
-##  What This Project Does
+#What This Project Does
 
 | Feature | Description |
 |---------|-------------|
@@ -18,7 +18,7 @@ A comprehensive **portfolio analytics engine** computing performance attribution
 
 ---
 
-## 📂 Project Structure
+#Project Structure
 
 ```
 project2_portfolio_analytics/
